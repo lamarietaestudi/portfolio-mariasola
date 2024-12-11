@@ -1,0 +1,380 @@
+{
+  "es": {
+    "Técnicas": [
+      {
+        "name": "Photoshop",
+        "category": "Diseño | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-ps.png"
+      },
+      {
+        "name": "Illustrator",
+        "category": "Diseño | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-ai.png"
+      },
+      {
+        "name": "InDesign",
+        "category": "Diseño | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-id.png"
+      },
+      {
+        "name": "Figma",
+        "category": ["Diseño | Marketing", "Tecnologías Web"],
+        "logo": "/assets/skills-logos/skills_logo-figma.png"
+      },
+      {
+        "name": "Mailchimp",
+        "category": "Diseño | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-mailchimp.png"
+      },
+      {
+        "name": "HTML5",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-html5.png"
+      },
+      {
+        "name": "CSS3",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-css3.png"
+      },
+      {
+        "name": "Javascript",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-js.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-visualstudio.png"
+      },
+      {
+        "name": "Github",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-github.png"
+      },
+      {
+        "name": "Cloudflare",
+        "category": "Tecnologías Web",
+        "logo": "/assets/skills-logos/skills_logo-cloudflare.png"
+      },
+      {
+        "name": "Jira",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-jira.png"
+      },
+      {
+        "name": "OneDrive",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-onedrive.png"
+      },
+      {
+        "name": "Teams",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-teams.png"
+      },
+      {
+        "name": "Word",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-word.png"
+      },
+      {
+        "name": "Excel",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-excel.png"
+      },
+      {
+        "name": "Outlook",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-outlook.png"
+      },
+      {
+        "name": "PowerPoint",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-powerpoint.png"
+      },
+      {
+        "name": "ChatGPT",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-chatgpt.png"
+      },
+      {
+        "name": "Copilot",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-copilot.png"
+      },
+      {
+        "name": "PowerBI",
+        "category": "Administrativas",
+        "logo": "/assets/skills-logos/skills_logo-powerbi.png"
+      },
+      {
+        "name": "Gemini",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-gemini.png"
+      },
+      {
+        "name": "Adobe Firefly",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-firefly.png"
+      },
+      {
+        "name": "Krea",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-krea.png"
+      },
+      {
+        "name": "Gamma",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-gamma.png"
+      },
+      {
+        "name": "Hedra",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-hedra.png"
+      },
+      {
+        "name": "ElevenLabs",
+        "category": "Inteligencia Artificial",
+        "logo": "/assets/skills-logos/skills_logo-elevenlabs.png"
+      }
+    ],
+    "Profesionales": [
+      {
+        "name": "Trabajo en equipo",
+        "description": "Colaboración eficaz con departamentos y proveedores."
+      },
+      {
+        "name": "Gestión de proyectos",
+        "description": "Planificación, ejecución y seguimiento de proyectos con éxito."
+      },
+      {
+        "name": "Comunicación efectiva",
+        "description": "Habilidad para transmitir ideas de forma clara y concisa."
+      },
+      {
+        "name": "Gestión de presupuestos",
+        "description": "Control y planificación de los recursos financieros."
+      },
+      {
+        "name": "Dirección de arte",
+        "description": "Liderazgo creativo y coordinación con otros equipos de diseño y marketing."
+      },
+      {
+        "name": "Investigación de mercado",
+        "description": "Análisis de tendencias y toma de decisiones informadas."
+      },
+      {
+        "name": "Gestión de contenidos",
+        "description": "Organización y administración de contenido para medios digitales."
+      },
+      {
+        "name": "Presentaciones comerciales",
+        "description": "Creación de material visual impactante para presentaciones de ventas."
+      },
+      {
+        "name": "Creatividad",
+        "description": "Habilidad para generar nuevas ideas de productos y servicios."
+      },
+      {
+        "name": "Negociación",
+        "description": "Interacción con proveedores y clientes para alcanzar acuerdos beneficiosos."
+      },
+      {
+        "name": "Adaptabilidad",
+        "description": "Capacidad para adaptarse a distintos entornos y proyectos de diversa índole."
+      },
+      {
+        "name": "Toma de decisiones",
+        "description": "Capacidad para tomar decisiones basadas en datos e informes."
+      }
+    ]
+  },
+  "en": {
+    "Technical": [
+      {
+        "name": "Photoshop",
+        "category": "Design | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-ps.png"
+      },
+      {
+        "name": "Illustrator",
+        "category": "Design | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-ai.png"
+      },
+      {
+        "name": "InDesign",
+        "category": "Design | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-id.png"
+      },
+      {
+        "name": "Figma",
+        "category": ["Design | Marketing", "Web Technologies"],
+        "logo": "/assets/skills-logos/skills_logo-figma.png"
+      },
+      {
+        "name": "Mailchimp",
+        "category": "Design | Marketing",
+        "logo": "/assets/skills-logos/skills_logo-mailchimp.png"
+      },
+      {
+        "name": "HTML5",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-html5.png"
+      },
+      {
+        "name": "CSS3",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-css3.png"
+      },
+      {
+        "name": "Javascript",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-js.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-visualstudio.png"
+      },
+      {
+        "name": "Github",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-github.png"
+      },
+      {
+        "name": "Cloudflare",
+        "category": "Web Technologies",
+        "logo": "/assets/skills-logos/skills_logo-cloudflare.png"
+      },
+      {
+        "name": "Jira",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-jira.png"
+      },
+      {
+        "name": "OneDrive",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-onedrive.png"
+      },
+      {
+        "name": "Teams",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-teams.png"
+      },
+      {
+        "name": "Word",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-word.png"
+      },
+      {
+        "name": "Excel",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-excel.png"
+      },
+      {
+        "name": "Outlook",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-outlook.png"
+      },
+      {
+        "name": "PowerPoint",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-powerpoint.png"
+      },
+      {
+        "name": "ChatGPT",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-chatgpt.png"
+      },
+      {
+        "name": "Copilot",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-copilot.png"
+      },
+      {
+        "name": "PowerBI",
+        "category": "Administrative",
+        "logo": "/assets/skills-logos/skills_logo-powerbi.png"
+      },
+      {
+        "name": "Gemini",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-gemini.png"
+      },
+      {
+        "name": "Adobe Firefly",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-firefly.png"
+      },
+      {
+        "name": "Krea",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-krea.png"
+      },
+      {
+        "name": "Gamma",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-gamma.png"
+      },
+      {
+        "name": "Hedra",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-hedra.png"
+      },
+      {
+        "name": "ElevenLabs",
+        "category": "Artificial Intelligence",
+        "logo": "/assets/skills-logos/skills_logo-elevenlabs.png"
+      }
+    ],
+    "Professional": [
+      {
+        "name": "Teamwork",
+        "description": "Effective collaboration with departments and suppliers."
+      },
+      {
+        "name": "Project Management",
+        "description": "Planning, execution, and successful follow-up of projects."
+      },
+      {
+        "name": "Effective Communication",
+        "description": "Ability to convey ideas clearly and concisely."
+      },
+      {
+        "name": "Budget Management",
+        "description": "Control and planning of financial resources."
+      },
+      {
+        "name": "Art Direction",
+        "description": "Creative leadership and coordination with other design and marketing teams."
+      },
+      {
+        "name": "Market Research",
+        "description": "Analysis of trends and informed decision-making."
+      },
+      {
+        "name": "Content Management",
+        "description": "Organization and administration of content for digital media."
+      },
+      {
+        "name": "Commercial Presentations",
+        "description": "Creation of impactful visual material for sales presentations."
+      },
+      {
+        "name": "Creativity",
+        "description": "Ability to generate new product and service ideas."
+      },
+      {
+        "name": "Negotiation",
+        "description": "Interaction with suppliers and clients to reach beneficial agreements."
+      },
+      {
+        "name": "Adaptability",
+        "description": "Ability to adapt to different environments and various projects."
+      },
+      {
+        "name": "Decision Making",
+        "description": "Ability to make data-driven decisions."
+      }
+    ]
+  }
+}

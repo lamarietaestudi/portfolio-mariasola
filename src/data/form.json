@@ -1,0 +1,18 @@
+{
+  "es": {
+    "placeholders": {
+      "name": "Tu nombre",
+      "email": "Tu email",
+      "message": "Tu mensaje"
+    },
+    "submit": "Enviar"
+  },
+  "en": {
+    "placeholders": {
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message"
+    },
+    "submit": "Send"
+  }
+}

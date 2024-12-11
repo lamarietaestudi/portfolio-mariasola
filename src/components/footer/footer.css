@@ -1,0 +1,16 @@
+.footercontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 30px;
+  gap: 20px;
+}
+
+.signaturecontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--msl-fontsize-xs);
+  letter-spacing: 3px;
+}

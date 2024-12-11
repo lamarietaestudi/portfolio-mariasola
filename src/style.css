@@ -1,0 +1,38 @@
+:root {
+  --msl-background-color-primary: #1b1b1b; /* Color text contrast 17.2:1 (AAA) */
+  --msl-background-color-secondary: #272727; /* Color text contrast 4.5:1 (AA) */
+  --msl-color-pink: #d4265d; /* Background color contrast 4.5:1 (AA) */
+  --msl-color-green: #728a1e; /* Background color contrast 7.0:1 (AAA) */
+  --msl-color-orange: #d66514; /* Background color contrast 6.8:1 (AAA) */
+  --msl-color-text: #ffffff; /* Background color contrast 17.2:1 (AAA) */
+
+  --msl-fontsize-xl: 24px;
+  --msl-fontsize-l: 22px;
+  --msl-fontsize-m: 18px;
+  --msl-fontsize-xm: 16px;
+  --msl-fontsize-s: 14px;
+  --msl-fontsize-xs: 12px;
+
+  --msl-borderradius-btn: 5px;
+  --msl-borderradius-language: 20px;
+  --msl-borderrradius-section: 20px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: var(--msl-background-color-primary);
+  color: var(--msl-color-text);
+}
+
+.maincontainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

@@ -1,0 +1,348 @@
+[
+  {
+    "title": "Loteries de Catalunya",
+    "mainImage": "assets/images/lotocat.png",
+    "images": [
+      "assets/images/lotocat-1.png",
+      "assets/images/lotocat-2.png",
+      "assets/images/lotocat-3.png",
+      "assets/images/lotocat-4.png",
+      "assets/images/lotocat-5.png",
+      "assets/images/lotocat-6.png",
+      "assets/images/lotocat-7.png",
+      "assets/images/lotocat-8.png",
+      "assets/images/lotocat-9.png",
+      "assets/images/lotocat-10.png"
+    ],
+    "description": {
+      "es": "Definición de mecánicas de juegos de lotería instantánea (rasca y gana), asegurando el cumplimiento de buenas prácticas y juego responsable, y dirección de arte en colaboración con los departamentos de diseño y marketing.",
+      "en": "Definition of instant lottery game mechanics (scratch cards), ensuring compliance with best practices and responsible gaming parameters, and art direction in collaboration with the design and marketing departments."
+    },
+    "applications": {
+      "es": [
+        "Diseño de mecánicas de juego",
+        "Cumplimiento de buenas prácticas",
+        "Dirección de arte"
+      ],
+      "en": [
+        "Game mechanics design",
+        "Compliance with best practices",
+        "Art direction"
+      ]
+    }
+  },
+  {
+    "title": "Ajuntament de Sant Boi de Llobregat",
+
+    "mainImage": "assets/images/santboi.png",
+    "images": ["assets/images/santboi-1.png", "assets/images/santboi-2.png"],
+    "description": {
+      "es": "Diseño de folleto para la campaña «Sant Boi Sa», dirigida a los jóvenes para promover una dieta saludable y un estilo de vida activo.",
+      "en": "Brochure design for the «Sant Boi Sa» campaign aimed at youth people to promote a healthy diet and lifestyle."
+    },
+    "applications": {
+      "es": [
+        "Diseño de brochure",
+        "Campaña juvenil",
+        "Promoción de estilo de vida saludable"
+      ],
+      "en": ["Brochure design", "Youth campaign", "Healthy lifestyle promotion"]
+    }
+  },
+  {
+    "title": "Royal Caribbean",
+    "mainImage": "assets/images/royalcaribbean.png",
+    "images": [
+      "assets/images/royalcaribbean-1.png",
+      "assets/images/royalcaribbean-2.png"
+    ],
+    "description": {
+      "es": "Diseño de maquetación de catálogos anuales de cruceros.",
+      "en": "Annual cruise catalogs layout design"
+    },
+    "applications": {
+      "es": ["Maquetación de catálogos", "Cruceros"],
+      "en": ["Catalog layout", "Cruises"]
+    }
+  },
+
+  {
+    "title": "Silversea",
+    "mainImage": "assets/images/silversea.png",
+    "images": ["assets/images/silversea-1.png"],
+    "description": {
+      "es": "Diseño de maquetación de catálogos anuales de cruceros.",
+      "en": "Annual cruise catalogs layout design"
+    },
+    "applications": {
+      "es": ["Maquetación de catálogos", "Cruceros"],
+      "en": ["Catalog layout", "Cruises"]
+    }
+  },
+  {
+    "title": "MC Ediciones",
+    "mainImage": "assets/images/mcediciones.png",
+    "images": [
+      "assets/images/mcediciones-1.png",
+      "assets/images/mcediciones-2.png",
+      "assets/images/mcediciones-3.png",
+      "assets/images/mcediciones-4.png",
+      "assets/images/mcediciones-5.png"
+    ],
+    "description": {
+      "es": "Diseño de maquetación de revistas mensuales: Mamá & Bebé, Viva Scooter, El mundo del caballo, Mujer Sana y Bella, Integral.",
+      "en": "Monthly magazines layout design: Mamá & Bebé, Viva Scooter, El mundo del caballo, Mujer Sana y Bella, Integral"
+    },
+    "applications": {
+      "es": ["Maquetación de revistas", "Revistas mensuales"],
+      "en": ["Magazines layout design", "Monthly magazines"]
+    }
+  },
+  {
+    "title": "Laertes",
+    "mainImage": "assets/images/laertes.png",
+    "images": ["assets/images/laertes-1.png", "assets/images/laertes-2.png"],
+    "description": {
+      "es": "Diseño de portadas de libros.",
+      "en": "Book covers design"
+    },
+    "applications": {
+      "es": ["Portadas de libros"],
+      "en": ["Book covers"]
+    }
+  },
+  {
+    "title": "Construccions Vallalta",
+    "mainImage": "assets/images/vallalta.png",
+    "images": [
+      "assets/images/vallalta-1.png",
+      "assets/images/vallalta-2.png",
+      "assets/images/vallalta-3.png",
+      "assets/images/vallalta-4.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, artículos de papelería, tarjetas de visita y branding para vehículos.",
+      "en": "Corporate image design | Stationary items | Business cards | Vehicle branding"
+    },
+    "applications": {
+      "es": [
+        "Imagen corporativa",
+        "Diseño de papelería",
+        "Branding para vehículos"
+      ],
+      "en": ["Corporate image", "Stationary design", "Vehicle branding"]
+    }
+  },
+  {
+    "title": "Gabà Pastisseria",
+    "mainImage": "assets/images/gaba.png",
+    "images": [
+      "assets/images/gaba-1.png",
+      "assets/images/gaba-2.png",
+      "assets/images/gaba-3.png",
+      "assets/images/gaba-4.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, folleto de catering, branding para vehículos y packaging.",
+      "en": "Corporate image design | Catering brochure | Vehicle branding | Packaging"
+    },
+    "applications": {
+      "es": [
+        "Imagen corporativa",
+        "Folleto de catering",
+        "Branding para vehículos",
+        "Packaging"
+      ],
+      "en": [
+        "Corporate image",
+        "Catering brochure",
+        "Vehicle branding",
+        "Packaging"
+      ]
+    }
+  },
+  {
+    "title": "El Camí | Centre de dia",
+    "mainImage": "assets/images/elcami.png",
+    "images": [
+      "assets/images/elcami-1.png",
+      "assets/images/elcami-2.png",
+      "assets/images/elcami-3.png",
+      "assets/images/elcami-4.png",
+      "assets/images/elcami-5.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, tarjetas de visita, folleto, sistema de señalización y vinilos de gran formato.",
+      "en": "Corporate image design | Business cards | Flyer | Sign system | Large-format vynils"
+    },
+    "applications": {
+      "es": [
+        "Imagen corporativa",
+        "Tarjetas de visita",
+        "Folleto",
+        "Sistema de señalización",
+        "Vinilos de gran formato"
+      ],
+      "en": [
+        "Corporate image",
+        "Business cards",
+        "Flyer",
+        "Sign system",
+        "Large-format vynils"
+      ]
+    }
+  },
+  {
+    "title": "Lepant Residencial",
+    "mainImage": "assets/images/lepant.png",
+    "images": [
+      "assets/images/lepant-1.png",
+      "assets/images/lepant-2.png",
+      "assets/images/lepant-3.png",
+      "assets/images/lepant-4.png",
+      "assets/images/lepant-5.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, cartelera exterior de gran formato, folleto promocional y sistema de señalización.",
+      "en": "Corporate image design | Large-format outdoor billboard | Promotional flyer | Sign system"
+    },
+    "applications": {
+      "es": [
+        "Imagen corporativa",
+        "Cartelera exterior",
+        "Folleto promocional",
+        "Sistema de señalización"
+      ],
+      "en": [
+        "Corporate image",
+        "Outdoor billboard",
+        "Promotional flyer",
+        "Sign system"
+      ]
+    }
+  },
+  {
+    "title": "Ronda de Dalt Residencial",
+    "mainImage": "assets/images/rondadalt.png",
+    "images": [
+      "assets/images/rondadalt-1.png",
+      "assets/images/rondadalt-2.png",
+      "assets/images/rondadalt-3.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, tarjetas de visita, sistema de señalización y vinilos de gran formato.",
+      "en": "Corporate image design | Business cards | Sign system | Large-format vynils"
+    },
+    "applications": {
+      "es": [
+        "Imagen corporativa",
+        "Tarjetas de visita",
+        "Señalización",
+        "Vinilos de gran formato"
+      ],
+      "en": [
+        "Corporate image",
+        "Business cards",
+        "Sign system",
+        "Large-format vynils"
+      ]
+    }
+  },
+  {
+    "title": "Itaka diving",
+    "mainImage": "assets/images/itaka.png",
+    "images": [
+      "assets/images/itaka-1.png",
+      "assets/images/itaka-2.png",
+      "assets/images/itaka-3.png"
+    ],
+    "description": {
+      "es": "Branding y merchandising para centro de buceo.",
+      "en": "Branding & Merchandise"
+    },
+    "applications": {
+      "es": ["Branding", "Merchandising"],
+      "en": ["Branding", "Merchandise"]
+    }
+  },
+  {
+    "title": "La Mar d'Artesans",
+    "mainImage": "assets/images/lamardartesans.png",
+    "images": [
+      "assets/images/lamardartesans-1.png",
+      "assets/images/lamardartesans-2.png",
+      "assets/images/lamardartesans-3.png",
+      "assets/images/lamardartesans-4.png",
+      "assets/images/lamardartesans-5.png",
+      "assets/images/lamardartesans-6.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa, packaging, merchandising y artículos de papelería.",
+      "en": "Corporate image design | Packaging | Merchandise | Stationary items"
+    },
+    "applications": {
+      "es": ["Imagen corporativa", "Packaging", "Merchandising", "Papelería"],
+      "en": ["Corporate image", "Packaging", "Merchandise", "Stationery"]
+    }
+  },
+  {
+    "title": "Mimat Consultoria",
+    "mainImage": "assets/images/mimat.png",
+    "images": [
+      "assets/images/mimat-1.png",
+      "assets/images/mimat-2.png",
+      "assets/images/mimat-3.png"
+    ],
+    "description": {
+      "es": "Diseño de imagen corporativa y artículos de papelería.",
+      "en": "Corporate image design | Stationary items"
+    },
+    "applications": {
+      "es": ["Imagen corporativa", "Papelería"],
+      "en": ["Corporate image", "Stationery items"]
+    }
+  },
+  {
+    "title": "Món Blau",
+    "mainImage": "assets/images/monblau.png",
+    "images": [
+      "assets/images/monblau-1.png",
+      "assets/images/monblau-2.png",
+      "assets/images/monblau-3.png",
+      "assets/images/monblau-4.png"
+    ],
+    "description": {
+      "es": "Diseño de branding, artículos de papelería, tarjetas de visita, sistema de señalización y branding para vehículos.",
+      "en": "Branding and design | Stationery items | Business cards | Sign system | Vehicle branding"
+    },
+    "applications": {
+      "es": [
+        "Branding",
+        "Papelería",
+        "Tarjetas de visita",
+        "Señalización",
+        "Branding para vehículos"
+      ],
+      "en": [
+        "Branding",
+        "Stationery",
+        "Business cards",
+        "Sign system",
+        "Vehicle branding"
+      ]
+    }
+  },
+  {
+    "title": "La Tête",
+    "mainImage": "assets/images/latete.png",
+    "images": ["assets/images/latete-1.png", "assets/images/latete-2.png"],
+    "description": {
+      "es": "Diseño de brochure de menú y tarjetas de visita.",
+      "en": "Menu brochure design | Business cards"
+    },
+    "applications": {
+      "es": ["Diseño de brochure de menú", "Tarjetas de visita"],
+      "en": ["Menu brochure design", "Business cards"]
+    }
+  }
+]

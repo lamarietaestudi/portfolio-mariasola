@@ -1,0 +1,127 @@
+{
+  "es": [
+    {
+      "jobTitle": "Diseñadora Gráfica y Digital | Técnica de Marketing",
+      "company": "Pollard Digital Solutions",
+      "startDate": "04-2016",
+      "endDate": "05-2024",
+      "description": [
+        "Definición de las mecánicas de los juegos de lotería instantánea, garantizando el cumplimiento de las buenas prácticas.",
+        "Creación de inspiraciones para los diseños preliminares.",
+        "Contratación y gestión de los estudios de mercado, análisis de los resultados y toma de decisiones.",
+        "Dirección de arte en colaboración con el Departamento de Diseño y Marketing.",
+        "Diseño y maquetación de presentaciones comerciales, notas informativas y materiales para el punto de venta.",
+        "Gestión de contenidos de la página web y maquetación de e-mailings promocionales.",
+        "Preparación de informes de ventas y análisis para el Plan de Marketing Anual.",
+        "Gestión del presupuesto anual del departamento de Marketing."
+      ]
+    },
+    {
+      "jobTitle": "Agente de soporte en el Departamento de Confirming Caixabank",
+      "company": "Indra",
+      "startDate": "07-2015",
+      "endDate": "03-2016",
+      "description": [
+        "Gestión del confirming entre clientes y la entidad bancaria, atendiendo a las necesidades particulares de cada caso.",
+        "Gestión de documentación relacionada."
+      ]
+    },
+    {
+      "jobTitle": "Diseñadora Gráfica y Digital Freelance",
+      "company": "La Marieta | Estudi de Disseny",
+      "startDate": "02-2006",
+      "endDate": "06-2015",
+      "description": [
+        "Gestión integral de proyectos de diseño, incluyendo creación de marca, aplicaciones gráficas, packaging, rotulación y señalética.",
+        "Diseño de gran formato."
+      ]
+    },
+    {
+      "jobTitle": "Diseñadora Gráfica",
+      "company": "Tipografía Tonelli (Bolonia, Italia)",
+      "startDate": "09-2008",
+      "endDate": "06-2009",
+      "description": [
+        "Diseño, maquetación y preparación de artes finales de diversas piezas gráficas."
+      ]
+    },
+    {
+      "jobTitle": "Diseñadora Gráfica Editorial",
+      "company": "MC Ediciones",
+      "startDate": "11-2007",
+      "endDate": "04-2008",
+      "description": ["Maquetación y preparación de artes finales de revistas."]
+    },
+    {
+      "jobTitle": "Diseñadora Gráfica",
+      "company": "Merchandise Management",
+      "startDate": "10-2005",
+      "endDate": "10-2006",
+      "description": [
+        "Diseño y preparación de artes finales para catálogos anuales de cruceros."
+      ]
+    }
+  ],
+  "en": [
+    {
+      "jobTitle": "Graphic Designer & Digital Marketing Specialist",
+      "company": "Pollard Digital Solutions",
+      "startDate": "04-2016",
+      "endDate": "05-2024",
+      "description": [
+        "Definition of instant lottery game mechanics, ensuring compliance with best practices.",
+        "Creation of initial design inspirations.",
+        "Contracting and managing market studies, analyzing results, and making decisions.",
+        "Art direction in collaboration with the Design and Marketing Departments.",
+        "Design and layout of commercial presentations, informational notes, and point-of-sale materials.",
+        "Management of web content and layout of promotional e-mailings.",
+        "Preparation of sales reports and analysis for the Annual Marketing Plan.",
+        "Management of the annual marketing budget."
+      ]
+    },
+    {
+      "jobTitle": "Support Agent in the Caixabank Confirming Department",
+      "company": "Indra",
+      "startDate": "07-2015",
+      "endDate": "03-2016",
+      "description": [
+        "Management of confirming between clients and the bank, addressing each case's specific needs.",
+        "Management of related documentation."
+      ]
+    },
+    {
+      "jobTitle": "Freelance Graphic Designer & Digital",
+      "company": "La Marieta | Design Studio",
+      "startDate": "02-2006",
+      "endDate": "06-2015",
+      "description": [
+        "Integral project management, including brand creation, graphic applications, packaging, signage, and large format design."
+      ]
+    },
+    {
+      "jobTitle": "Graphic Designer",
+      "company": "Tipografia Tonelli (Bologna, Italy)",
+      "startDate": "09-2008",
+      "endDate": "06-2009",
+      "description": [
+        "Design, layout, and preparation of final artwork for various graphic pieces."
+      ]
+    },
+    {
+      "jobTitle": "Graphic Designer Editorial",
+      "company": "MC Ediciones",
+      "startDate": "11-2007",
+      "endDate": "04-2008",
+      "description": ["Layout and preparation of final artwork for magazines."]
+    },
+    {
+      "jobTitle": "Graphic Designer",
+      "company": "Merchandise Management",
+      "startDate": "10-2005",
+      "endDate": "10-2006",
+      "description": [
+        "Design and preparation of final artwork for annual cruise catalogs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: var(--msl-background-color-primary);
+  box-shadow: 0 4px 10px -4px var(--msl-color-text);
+}
+.logocontainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logoimage {
+  width: 50px;
+  height: 50px;
+}
+.logoname {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: var(--msl-fontsize-m);
+  letter-spacing: 10px;
+  text-align: left;
+}
+.menucontainer {
+  display: flex;
+  gap: 10px;
+}
+.optionscontainer {
+  display: flex;
+  gap: 10px;
+}
+.hamburguericon {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  background: transparent;
+  box-shadow: 0px 0px 10px var(--msl-color-green);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.hamburguericon:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 10px var(--msl-color-text);
+}
+.menucontainer.open {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 90px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  width: 100px;
+  box-shadow: 0 4px 10px -4px var(--msl-color-text);
+}
+.languageselector {
+  position: relative;
+  width: 30px;
+  cursor: pointer;
+}
+.selectedlanguage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 30px;
+  background-color: var(--msl-background-color-secondary);
+  border-radius: 100%;
+  box-shadow: 0px 0px 10px var(--msl-color-green);
+}
+.languagedropdown {
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 30px;
+  background-color: var(--msl-background-color-secondary);
+  border-radius: 15px;
+  z-index: 100;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.languagedropdown.show {
+  display: block;
+}
+.languageoption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.languageoption:first-of-type {
+  padding-bottom: 10px;
+}
+.languageoption:hover {
+  background-color: var(--msl-color-green);
+}
+.flag {
+  width: 30px;
+  height: 30px;
+}
+
+@media (max-width: 768px) {
+  .header {
+    justify-content: center;
+  }
+  .logocontainer {
+    padding-right: 400px;
+  }
+  .hamburguericon {
+    display: flex;
+  }
+  .menucontainer {
+    display: none;
+    gap: 5px;
+  }
+  .menucontainer.open {
+    display: flex;
+    height: 36px;
+    width: 100%;
+    background-color: var(--msl-background-color-secondary);
+  }
+  .optionscontainer {
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .logocontainer {
+    padding-right: 40px;
+  }
+  .menucontainer.open {
+    flex-wrap: wrap;
+    height: 80px;
+    background-color: var(--msl-background-color-primary);
+  }
+}

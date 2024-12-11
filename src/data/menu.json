@@ -1,0 +1,76 @@
+{
+  "es": [
+    {
+      "label": "Inicio",
+      "link": "#home",
+      "visible": false
+    },
+    {
+      "label": "Sobre mí",
+      "link": "#aboutMe",
+      "visible": true
+    },
+    {
+      "label": "Habilidades",
+      "link": "#skills",
+      "visible": true
+    },
+    {
+      "label": "Experiencia",
+      "link": "#experience",
+      "visible": true
+    },
+    {
+      "label": "Formación",
+      "link": "#formation",
+      "visible": true
+    },
+    {
+      "label": "Proyectos",
+      "link": "#projects",
+      "visible": true
+    },
+    {
+      "label": "Contacto",
+      "link": "#contact",
+      "visible": true
+    }
+  ],
+  "en": [
+    {
+      "label": "Home",
+      "link": "#home",
+      "visible": false
+    },
+    {
+      "label": "About Me",
+      "link": "#aboutMe",
+      "visible": true
+    },
+    {
+      "label": "Skills",
+      "link": "#skills",
+      "visible": true
+    },
+    {
+      "label": "Experience",
+      "link": "#experience",
+      "visible": true
+    },
+    {
+      "label": "Formation",
+      "link": "#formation",
+      "visible": true
+    },
+    {
+      "label": "Projects",
+      "link": "#projects",
+      "visible": true
+    },
+    {
+      "label": "Contact",
+      "link": "#contact",
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+.experiencecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 30px;
+  margin-bottom: 30px;
+  border: 1px solid var(--msl-color-text);
+  border-radius: 0px 50px 0px 50px;
+  box-shadow: 0 0px 10px -4px var(--msl-color-text);
+  gap: 10px;
+  background-color: var(--msl-background-color-secondary);
+  width: 600px;
+}
+
+.titleexperience {
+  font-size: var(--msl-fontsize-xl);
+  color: var(--msl-color-orange);
+  text-shadow: 0 0px 10px -4px var(--msl-color-text);
+  text-align: center;
+}
+
+.companyexperience {
+  font-size: var(--msl-fontsize-l);
+}
+
+.durationexperience {
+  font-size: var(--msl-fontsize-xm);
+}
+
+.descriptionlist {
+  font-size: var(--msl-fontsize-m);
+  padding-left: 20px;
+  line-height: 30px;
+}
+
+@media (max-width: 375px) {
+  .experiencecontainer {
+    width: 300px;
+  }
+  .titleexperience {
+    font-size: var(--msl-fontsize-l);
+  }
+  .companyexperience {
+    font-size: var(--msl-fontsize-m);
+  }
+  .descriptionlist {
+    padding-left: 10px;
+  }
+}

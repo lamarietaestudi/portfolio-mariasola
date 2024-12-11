@@ -1,0 +1,24 @@
+.menu-button {
+  width: auto;
+  min-width: 120px;
+  padding: 10px 10px;
+  border-radius: var(--msl-borderradius-btn);
+  border: none;
+  cursor: pointer;
+  font-size: var(--msl-fontsize-s);
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  color: var(--msl-color-text);
+  background-color: var(--msl-background-color-secondary);
+}
+
+.menu-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 10px var(--msl-color-text);
+}
+
+.menu-button.active {
+  color: var(--msl-color-text);
+  box-shadow: 0px 0px 20px var(--msl-color-green);
+}

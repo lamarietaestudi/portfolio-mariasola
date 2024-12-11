@@ -1,0 +1,78 @@
+{
+  "es": [
+    {
+      "course": "Máster Full Stack Developer",
+      "institution": "The Power Business School",
+      "startDate": "2023",
+      "endDate": "En curso"
+    },
+    {
+      "course": "Máster en Inteligencia Artificial",
+      "institution": "The Power Business School",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "course": "Máster en UX/UI Design Thinking",
+      "institution": "Universidad Europea de Madrid",
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "course": "Postgrado en Dirección de Marketing y Ventas",
+      "institution": "EAE Business School",
+      "startDate": "2018",
+      "endDate": "2020"
+    },
+    {
+      "course": "CFGS Gráfica Publicitaria",
+      "institution": "Escola La Massana",
+      "startDate": "2003",
+      "endDate": "2006"
+    },
+    {
+      "course": "Diplomatura en Arte Electrónico y Diseño Digital",
+      "institution": "Universitat Ramón Llull - ESDI",
+      "startDate": "2000",
+      "endDate": "2003"
+    }
+  ],
+  "en": [
+    {
+      "course": "Master Full Stack Developer",
+      "institution": "The Power Business School",
+      "startDate": "2023",
+      "endDate": "In progress"
+    },
+    {
+      "course": "Master in Artificial Intelligence",
+      "institution": "The Power Business School",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "course": "Master in UX/UI Design Thinking",
+      "institution": "Universidad Europea de Madrid",
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "course": "Postgraduate in Marketing and Sales Management",
+      "institution": "EAE Business School",
+      "startDate": "2018",
+      "endDate": "2020"
+    },
+    {
+      "course": "Higher Education Advertising Graphics",
+      "institution": "La Massana College",
+      "startDate": "2003",
+      "endDate": "2006"
+    },
+    {
+      "course": "Undergraduate in Electronic Art and Digital Design",
+      "institution": "Ramón Llull University - ESDI",
+      "startDate": "2000",
+      "endDate": "2003"
+    }
+  ]
+}
