@@ -43,14 +43,10 @@ portfolio-mariasola/
    	    		     ├──  contact.js
    	    		     ├──  contact.css
      └── data/
-	        ├── aboutme.json
-	        ├── experience.json
-	        ├── footerform.json
-	        ├── formation.json
-	        ├── menu.json
-	        ├── projects.json
-	        ├── skills.json
-
-
-   
-	
+	├── aboutme.json
+	├── experience.json
+	├── footerform.json
+	├── formation.json
+	├── menu.json
+	├── projects.json
+	├── skills.json
